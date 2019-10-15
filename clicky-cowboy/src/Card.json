@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "Bowser",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/11/BowserNSMBUD.png",
+        "count": 0
+
+    },
+    {
+        "id": 2,
+        "name": "Mario",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/MarioNSMBUDeluxe.png",
+        "count": 0
+    }
+]
